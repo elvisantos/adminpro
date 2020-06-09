@@ -27,12 +27,14 @@ import { ServiceModule } from './service/service.module';
 
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     RegisterComponent,
-   
+
+
 
 
   ],

@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Usuario } from 'src/app/models/usuario.model';
 import { UsuarioService } from 'src/app/service/service.index';
 import swal from "sweetalert";
-import { ReadVarExpr } from '@angular/compiler';
+
 
 
 @Component({
